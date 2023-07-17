@@ -1,7 +1,7 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Login Page",
       "isDefault": true
     }
   ],
@@ -9,6 +9,9 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#F3F1C7",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
